@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cryptos_array">
+        <item>BTC / USD</item>
+        <item>ETH / USD</item>
+        <item>BCH / USD</item>
+    </string-array>
+</resources>
